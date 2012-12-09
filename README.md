@@ -1,7 +1,7 @@
-Tubster
+Tubster Color Theme for TextMate 2
 =======
 
-Tubster Theme's Bundle for TextMate 2.
+Tubster Color Theme's as a tmBundle for TextMate 2.
 
 ##Installation
 Move the `.tmBundle` to `~/Library/Application Support/Avian/Bundles`.
