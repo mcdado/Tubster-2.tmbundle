@@ -4,9 +4,10 @@ Tubster Color Theme's as a tmBundle for TextMate 2.
 
 ## Installation ##
 
-- Clone this repo directly in TextMate 2's Bundles directory like this:  
+- Clone this repo directly in TextMate 2's bundles directory from Terminal like this:  
 `cd ~/Library/Application\ Support/Avian/Pristine Copy/Bundles/`  
-`git clone https://github.com/mcdado/Tubster.git "Tubster.tmbundle"`
+`git clone https://github.com/mcdado/Tubster-2.tmbundle.git "Tubster.tmbundle"`
+- Alternatively, you can download this repo as ZIP and double click on Tubster-2.tmbundle.git  
 - Select the theme from the **View** > **Theme** menu  
 
 ## Credits ##
